@@ -55,7 +55,7 @@ graph LR
     G -->|Tailors| G1[Personalized Education Paths]
 ```
 
-### Possible user flow:
+## Possible user flow
 
 ```mermaid
 graph TD

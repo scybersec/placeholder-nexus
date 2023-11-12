@@ -100,7 +100,14 @@ graph LR
     E -->|Protects| E1[User Data]
     F -->|Adapts to| F1[User Growth]
 ```
+## Branching Strategy
 
+- This is a widely-used branching strategy that defines a specific branching model for the project. It involves two main branches:
+    - **`master`**: Represents the stable production-ready code.
+    - **`develop`**: Serves as the main branch for ongoing development.
+- Feature branches are created off the **`develop`** branch for developing new features. Once a feature is complete, it is merged back into **`develop`**.
+- When the code in **`develop`** is ready for release, it is merged into the **`master`** branch, and a new release is tagged.
+- Hotfixes for critical production issues are created from the **`master`** branch and then merged back into both **`master`** and **`develop`**.
         Have fun!", create a new line with “—-“and then type: -
         
         " Enter the **name** or **names** of the **social networks** you want to upload to. Then enter the **goal** for that **social network** and write how many **days** you want to upload the content. Finally, please give me the **topic** of your** profile**, what it will be based on, and what it will post. Good luck!"```

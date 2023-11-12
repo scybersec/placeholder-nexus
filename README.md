@@ -12,7 +12,6 @@ Imagine Nexus as a platform where AI agents with distinct abilities team up with
 - **Human-AI Interface** allowing intuitive interaction with AI.
 - **Project Lifecycle Automation** for guiding projects from start to finish.
 - **Decentralized Decision Support** to enable diverse input for better results.
-- **Learning and Simulation Environment** for hands-on skill-building and testing.
 
 ```mermaid
 graph LR
@@ -20,13 +19,11 @@ graph LR
     A -->|Facilitates| C[Human-AI Interface]
     A -->|Manages| D[Project Lifecycle Automation]
     A -->|Encourages| E[Decentralized Decision Support]
-    A -->|Provides| F[Learning and Simulation Environment]
 
     B -->|Comprises| G[Specialized AI Agents]
     C -->|Enables| H[Intuitive Interaction]
     D -->|Streamlines| I[Automated Workflows]
     E -->|Utilizes| J[Diverse AI Perspectives]
-    F -->|Creates| K[Virtual Learning Space]
 ```
 
 ## **Key Features**
@@ -36,7 +33,6 @@ graph LR
 - Conversational interface for natural communication with AI.
 - Project templates that adapt and learn from user interaction.
 - Continuous project analytics with AI-driven suggestions.
-- Customized learning experiences tailored by AI to individual users.
 
 ```mermaid
 graph LR
@@ -45,14 +41,14 @@ graph LR
     A -->|Provides| D[Intuitive Dialogue System]
     A -->|Adapts| E[Adaptive Project Templates]
     A -->|Delivers| F[Real-time Analytics]
-    A -->|Customizes| G[Dynamic Learning Modules]
+
 
     B -->|Forms| B1[Flexible AI Team]
     C -->|Coordinates| C1[AI Functionality]
     D -->|Facilitates| D1[Conversational User Interface]
     E -->|Evolves with| E1[Responsive Project Frameworks]
     F -->|Guides with| F1[Continuous Improvement Insights]
-    G -->|Tailors| G1[Personalized Education Paths]
+
 ```
 
 ## Possible user flow

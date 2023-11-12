@@ -55,6 +55,25 @@ graph LR
     G -->|Tailors| G1[Personalized Education Paths]
 ```
 
+### Possible user flow:
+
+```mermaid
+graph TD
+    A[User Initiates Project] -->|Defines goals| B[AI Collaboration Network]
+    B --> C{AI Expertise Router}
+    C -->|Match Expertise| D[AI Programmer]
+    C -->|Match Expertise| E[AI Designer]
+    C -->|Match Expertise| F[AI Project Manager]
+    D --> G[Task Execution]
+    E --> G
+    F -->|Consolidates Output| H[AI Integrator]
+    G --> H
+    H --> I{Review with User}
+    I -->|User Feedback| J[Iterative Improvement]
+    I -->|Approval| K[Project Completion]
+    J --> H
+```
+
 ## Branching Strategy
 
 - This is a widely-used branching strategy that defines a specific branching model for the project. It involves two main branches:

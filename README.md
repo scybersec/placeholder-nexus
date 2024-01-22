@@ -10,7 +10,6 @@ Imagine Nexus as a platform where AI agents with distinct abilities team up with
 
 - **AI Collaboration Network** consisting of specialized AI agents.
 - **Human-AI Interface** allowing intuitive interaction with AI.
-- **Project Lifecycle Automation** for guiding projects from start to finish.
 - **Decentralized Decision Support** to enable diverse input for better results.
 
 ```mermaid
